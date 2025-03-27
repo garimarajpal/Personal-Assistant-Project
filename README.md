@@ -42,8 +42,8 @@ Replace the weather_api_key and news_api_key in the script with your API keys.
 ```
 python
 
-weather_api_key = "YOUR_OPENWEATHERMAP_API_KEY"
-news_api_key = "YOUR_NEWSAPI_API_KEY"
+weather_api_key = "write-your-api-key"
+news_api_key = "write-your-api-key"
 ```
 
 ## How to Use:
