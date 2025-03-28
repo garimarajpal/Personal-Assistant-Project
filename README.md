@@ -24,7 +24,6 @@ This is a simple personal assistant built using Python. It can perform tasks lik
 You can install the required libraries using pip:
 
 ```
-cmd
 pip install pyttsx3 speechrecognition requests schedule
 ```
 
