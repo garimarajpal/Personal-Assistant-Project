@@ -24,7 +24,7 @@ This is a simple personal assistant built using Python. It can perform tasks lik
 You can install the required libraries using pip:
 
 ```
-bash
+cmd
 pip install pyttsx3 speechrecognition requests schedule
 ```
 
@@ -40,8 +40,6 @@ For news data, sign up at NewsAPI to get an API key.
 Replace the weather_api_key and news_api_key in the script with your API keys.
 
 ```
-python
-
 weather_api_key = "write-your-api-key"
 news_api_key = "write-your-api-key"
 ```
